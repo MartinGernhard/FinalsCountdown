@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fcca7c7c-e7b7-4412-8a16-ece468ccf6b3" name="Changes" comment="INITIAL IMPORT">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Martin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnderesProgramm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DatenKlasse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NochEinProgramm.java" afterDir="false" />
+    <list default="true" id="fcca7c7c-e7b7-4412-8a16-ece468ccf6b3" name="Changes" comment="Beispiele fuer Klassen mit final-Attributen.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668195695402</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Beispiele fuer Klassen mit final-Attributen.">
+      <created>1668198312309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668198312309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,7 +89,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="INITIAL IMPORT" />
-    <option name="LAST_COMMIT_MESSAGE" value="INITIAL IMPORT" />
+    <MESSAGE value="Beispiele fuer Klassen mit final-Attributen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Beispiele fuer Klassen mit final-Attributen." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
